@@ -11,3 +11,10 @@ python main.py
 Now press & hold spacebar while moving your hand. You can clear the screen from menu and close the application from close menu. 
 
 ### Note : Assume your index finger as the marker
+
+## Sample pics
+
+![This is an image](https://github.com/iamSwaps/Hand-Track-Sketcher/blob/main/hts1.jpg)
+
+
+![This is an image](https://github.com/iamSwaps/Hand-Track-Sketcher/blob/main/hts2.jpg)
